@@ -13,7 +13,7 @@
 
 1. Встановіть необхідні бібліотеки:
    ```sh
-   pip install tkinter requests geocoder Pillow
+   pip install -r requirements.txt
    ```
 2. Скачайте або клонуйте репозиторій.
    ```sh
